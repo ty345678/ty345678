@@ -10,7 +10,7 @@
   
 
 - 📫 How to reach me ...
-  -tymueller99@gmail.com
+  - tymueller99@gmail.com
 
 <!---
 ty345678/ty345678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
